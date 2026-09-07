@@ -6,12 +6,6 @@ This project is an **interactive Customer Analysis Dashboard created using Micro
 The dashboard provides a simple and clear view of customer and order data to help understand 
 regional performance, product category performance, customer orders, and order status.
 
-## 📌 Project Overview
-
-This project is an **interactive Customer Analysis Dashboard created using Microsoft Excel**. 
-The dashboard provides a simple and clear view of customer and order data to help understand 
-regional performance, product category performance, customer orders, and order status.
-
 ## 📈 Dashboard Preview
 
 ![Customer Analysis Dashboard](Customer analysis dashboard)
