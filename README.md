@@ -18,7 +18,7 @@ regional performance, product category performance, customer orders, and order s
 
 ## 📈 Dashboard Preview
 
-![Customer Analysis Dashboard](Customer_Dashboard_Image.png)
+![Customer Analysis Dashboard](Customer analysis dashboard)
 
 ## 🔍 Key Insights
 
