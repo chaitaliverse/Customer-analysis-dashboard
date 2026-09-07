@@ -1,4 +1,4 @@
-# 📊 Customer Analysis Dashboard – Excel
+<img width="1364" height="622" alt="Image" src="https://github.com/user-attachments/assets/1cd9f7d2-1150-462f-87a0-71d9d8497547" /># 📊 Customer Analysis Dashboard – Excel
 
 ## 📌 Project Overview
 
